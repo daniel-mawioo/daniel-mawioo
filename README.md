@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Key Biodiversity Areas](https://www.keybiodiversityareas.org/)
+- 🔭 I’m currently working on [Key Biodiversity Areas](https://www.keybiodiversityareas.org/) & this is my work github account <a href="https://github.com/BL-Daniel-Mawioo">BL Daniel Mawioo</a>
 
 - 🌱 I’m currently learning **DSA, OOP, Design Patterns, Clean code.**
 
